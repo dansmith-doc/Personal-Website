@@ -1,3 +1,7 @@
+.profile-img {
+    border-radius: 50%;
+}
+
 .navbar-items-right {
     list-style-type: none;
     display:inline-flex;
@@ -7,5 +11,5 @@
 }
 
 .container {
-    
+    #
 }
