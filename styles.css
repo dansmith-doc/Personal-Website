@@ -7,9 +7,8 @@ aside {
 }
 
 .right-social-menu {
-    display: -webkit-flex;
-    display: -ms-flexbox;
     display: flex;
+    flex-wrap: wrap;
     justify-content: flex-end;
     list-style-type: none;
 
