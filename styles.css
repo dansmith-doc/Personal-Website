@@ -6,11 +6,13 @@ aside {
     border-radius: 50%;
 }
 
-.right-social-menu {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: flex-end;
+.navbar li {
+    margin: 0;
+    padding: 0;
     list-style-type: none;
 
 }
 
+.navbar a {
+    text-decoration: none;
+}
