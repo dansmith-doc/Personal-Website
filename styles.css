@@ -6,7 +6,14 @@ aside {
     border-radius: 50%;
 }
 
+.right-social-menu {
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    justify-content: flex-end;
+    list-style-type: none;
 
+}
 
 .container {
     #
