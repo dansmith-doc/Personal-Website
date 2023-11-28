@@ -7,13 +7,31 @@ aside {
 }
 
 /*Navbar section*/
-.navbar li {
+
+nav {
+    width: 50%;
+    margin: 1rem auto;
+}
+
+nav ul {
     margin: 0;
     padding: 0;
     list-style-type: none;
 }
-.navbar a {
+
+nav li {
+    padding: 0.5rem 1rem;
+}
+
+nav li:hover {
+    background-color: gray;
+}
+
+nav a {
     text-decoration: none;
+}
+nav a:focus {
+    background-color: grey;
 }
 
 /*Footer section*/
