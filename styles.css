@@ -11,6 +11,7 @@ aside {
 nav {
     width: 50%;
     margin: 1rem auto;
+    border:solid grey 0.1rem;
 }
 
 nav ul {
@@ -19,16 +20,15 @@ nav ul {
     list-style-type: none;
 }
 
-nav li {
-    padding: 0.5rem 1rem;
-}
 
 nav li:hover {
-    background-color: gray;
+    background-color: grey;
 }
 
 nav a {
     text-decoration: none;
+    display: block;
+    padding: 0.5rem 1rem;
 }
 nav a:focus {
     background-color: grey;
