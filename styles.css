@@ -1,3 +1,7 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
 aside {
     background-color: #F8F6F4;
 }
@@ -9,29 +13,20 @@ aside {
 /*Navbar section*/
 
 nav {
-    width: 50%;
     margin: 1rem auto;
-    border:solid grey 0.1rem;
 }
 
 nav ul {
     margin: 0;
     padding: 0;
     list-style-type: none;
-}
-
-
-nav li:hover {
-    background-color: grey;
+    display: flex;
+    justify-content: flex-end;
 }
 
 nav a {
-    text-decoration: none;
-    display: block;
     padding: 0.5rem 1rem;
-}
-nav a:focus {
-    background-color: grey;
+    display: block;
 }
 
 /*Footer section*/
