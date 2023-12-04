@@ -34,6 +34,15 @@ nav a {
     display: block;
 }
 
+/*Sidebar nav*/
+
+aside ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    display: block;
+}
+
 /*Footer section*/
 footer li {
     list-style-type: none;
