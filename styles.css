@@ -43,6 +43,12 @@ aside ul {
     display: block;
 }
 
+/*Employment section*/
+.job-history {
+    display: grid;
+}
+
+
 /*Footer section*/
 footer li {
     list-style-type: none;
