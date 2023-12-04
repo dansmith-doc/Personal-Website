@@ -39,3 +39,14 @@ footer li {
     list-style-type: none;
 }
 
+
+/*Layout controls*/
+
+/*Mobile sizes*/
+@media (min-width: 600px) {
+
+}
+
+@media (min-width: 100px) {
+    
+}
